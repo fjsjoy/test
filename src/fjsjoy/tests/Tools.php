@@ -1,13 +1,13 @@
 <?php
 
-namespace fjsjoy/tests;
+namespace fjsjoy\tests;
 
 class Tools{
 	public function __construct(){
 	
 	}
 	
-	public function static Hi(){
+	public function Hi(){
 		echo 'hello word';
 	}
 
