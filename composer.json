@@ -1,0 +1,14 @@
+{
+    "name": "fjsjoy/test",
+    "description": "this is test",
+    "type": "library",
+    "license": "apache",
+    "authors": [
+        {
+            "name": "fjsjoy",
+            "email": "fjsjoy@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
