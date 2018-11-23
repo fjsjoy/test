@@ -1,0 +1,21 @@
+{
+    "name": "fjsjoy/test",
+    "description": "````",
+    "type": "project",
+    "authors": [
+        {
+            "name": "fjsjoy",
+            "email": "fjsjoy@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php":">=7.0.0"
+	},
+	"autoload":{
+		"psr-4":{
+			"fjsjoy\\test\\":"src/fjsjoy/tests"
+		}
+	}
+	
+}
